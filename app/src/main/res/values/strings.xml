@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name_health">健康码</string>
+
+    <string name="sum_count">总数</string>
+    <string name="exception_count">异常数：</string>
+
+    <string name="name">姓名：</string>
+    <string name="name_title">姓名</string>
+    <string name="id_number">身份证：</string>
+    <string name="time_title">通行时间</string>
+    <string name="status">状态</string>
+    <string name="scan">请扫码</string>
+
+    <string name="temperature">温度：</string>
+    <string name="temp">正常</string>
+    <string name="temp_error">异常</string>
+
+    <string name="green_code">绿码</string>
+    <string name="red_yellow_code">红黄码</string>
+
+    <string name="reset_measure">重新测温</string>
+
+    <string name="traffic_record">通行记录</string>
+
+    <string name="normal_count">0</string>
+
+    <string name="please_scan">请扫码</string>
+    <string name="please_measure">请测温</string>
+
+    <string name="complete">完成</string>
+
+    <string name="scan_num">扫码数：0</string>
+
+    <string name="sn_code">请输入序列号</string>
+    <string name="auth_code">请输入授权码</string>
+    <string name="binding">绑定设备</string>
+    <string name="obtain_auth">获取授权码</string>
+</resources>

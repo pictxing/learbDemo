@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#eeeeee</color>
+    <color name="colorPrimaryDark">#eeeeee</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBg">#2196F3</color>
+
+
+    <color name="witheColor">#fff</color>
+    <color name="greenColor">#2196F3</color>
+    <color name="redColor">#F44336</color>
+
+    <color name="blackColor">#000</color>
+
+    <color name="resetColor">#CDDC39</color>
+
+    <color name="grayColor">#eeeeee</color>
+
+</resources>
